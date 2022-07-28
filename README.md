@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajkumarboini
 - 👀 I’m interested in Datascience.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
